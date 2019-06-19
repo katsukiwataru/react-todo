@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 let style = { maxWidth: '700px' };
 
